@@ -1,0 +1,15 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: inside;
+}
+
+#table-head{
+    text-align: right;
+}
+#quizcol2,
+#quizcol4,
+#quizcol6,
+#quizcol8,
